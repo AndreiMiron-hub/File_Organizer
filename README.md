@@ -13,5 +13,3 @@ This application is a test run. It's main purpose is to be a study project for m
 Miron Andrei - [LinkedIn](www.linkedin.com/in/andrei-miron-a51236245) - andreimiron001@gmail.com
 
 Project Link: [https://github.com/AndreiMiron-hub/Tailor-Web-Application](https://github.com/AndreiMiron-hub/Tailor-Web-Application)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
